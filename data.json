@@ -1,4 +1,4 @@
-data =[
+data = '[
   {
     "term_name": "Schools & Colleges",
     "term_id": 16,
@@ -34,4 +34,4 @@ data =[
     "post_title": "Lorem 1",
     "post_id": 545
   }
-]
+]'
